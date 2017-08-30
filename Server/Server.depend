@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1503607729 source:/media/someone/Common/Socket/Server/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<resolv.h>
+	<pthread.h>
+	<fcntl.h>
+	<arpa/inet.h>
+	<netinet/in.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/wait.h>
+	"lib/sds/sds.c"
+	"listen.c"
+	"handler.c"
+
+1499289033 /media/someone/Common/Socket/Server/lib/sds/sds.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<limits.h>
+	"sds.h"
+	"sdsalloc.h"
+	<stdio.h>
+	"testhelp.h"
+	"limits.h"
+
+1472720731 /media/someone/Common/Socket/Server/lib/sds/sds.h
+	<sys/types.h>
+	<stdarg.h>
+	<stdint.h>
+
+1472720731 /media/someone/Common/Socket/Server/lib/sds/sdsalloc.h
+
+1503607692 /media/someone/Common/Socket/Server/listen.c
+
+1503603146 /media/someone/Common/Socket/Server/handler.c
+
+1503562486 source:/home/nsssayom/Desktop/Socket/Server/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<resolv.h>
+	<pthread.h>
+	<fcntl.h>
+	<arpa/inet.h>
+	<netinet/in.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/wait.h>
+	"lib/sds/sds.c"
+	"listen.c"
+	"handler.c"
+
+1503562494 /home/nsssayom/Desktop/Socket/Server/lib/sds/sds.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<limits.h>
+	"sds.h"
+	"sdsalloc.h"
+	<stdio.h>
+	"testhelp.h"
+	"limits.h"
+
+1503562496 /home/nsssayom/Desktop/Socket/Server/lib/sds/sds.h
+	<sys/types.h>
+	<stdarg.h>
+	<stdint.h>
+
+1503562496 /home/nsssayom/Desktop/Socket/Server/lib/sds/sdsalloc.h
+
+1503562486 /home/nsssayom/Desktop/Socket/Server/listen.c
+
+1503562486 /home/nsssayom/Desktop/Socket/Server/handler.c
+
+1503562486 source:/media/nsssayom/Data Yard/PL1_Project/ChatLite/Server/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<resolv.h>
+	<pthread.h>
+	<fcntl.h>
+	<arpa/inet.h>
+	<netinet/in.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/wait.h>
+	"lib/sds/sds.c"
+	"listen.c"
+	"handler.c"
+
+1503562494 /media/nsssayom/Data Yard/PL1_Project/ChatLite/Server/lib/sds/sds.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<limits.h>
+	"sds.h"
+	"sdsalloc.h"
+	<stdio.h>
+	"testhelp.h"
+	"limits.h"
+
+1503562496 /media/nsssayom/Data Yard/PL1_Project/ChatLite/Server/lib/sds/sds.h
+	<sys/types.h>
+	<stdarg.h>
+	<stdint.h>
+
+1503562496 /media/nsssayom/Data Yard/PL1_Project/ChatLite/Server/lib/sds/sdsalloc.h
+
+1503562486 /media/nsssayom/Data Yard/PL1_Project/ChatLite/Server/listen.c
+
+1503696209 /media/nsssayom/Data Yard/PL1_Project/ChatLite/Server/handler.c
+
